@@ -1,0 +1,2 @@
+com.fcmb.security.config.CoreSecurityAutoConfiguration
+com.fcmb.security.config.ObjectMapperConfig
